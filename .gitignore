@@ -1,0 +1,5 @@
+*
+!*.ipynb
+!Data2.txt
+!DataN.txt
+!.gitignore 
